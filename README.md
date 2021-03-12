@@ -1,1 +1,1 @@
-# ArduinoSmartCar
+# ArduinoSmartCar 基于WemosD1开发板（板载无线网卡）、L9110s步进电机控制机、超声波、安卓手机和带电机的玩具小车一台完成了手机遥控智能避障小车。
