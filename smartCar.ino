@@ -8,8 +8,8 @@
 #define Zhuan2 D4
 
 
-char* ssid = "CMCC-1217";
-char* password = "18477571217";
+char* ssid = "CMCC-****";
+char* password = "1***********";
 
 int port = 8888; // 端口号
 WiFiServer server(port);
